@@ -56,14 +56,15 @@ You can install the required libraries using pip:
 sh
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
 
-#Usage
+## Usage
+
 To use this notebook, clone the repository and open disaster_prediction.ipynb in Jupyter Notebook or JupyterLab:
 
 git clone <repository-url>
 cd <repository-directory>
 jupyter notebook disaster_prediction.ipynb
 
-#Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
